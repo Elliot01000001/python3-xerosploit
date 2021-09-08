@@ -15,6 +15,7 @@ terminaltables
 
 
 To install xerosploit, simply type --> sudo python3 install.py
+
 Wait for some time, Done!
 
 All I did it changed raw_input to input (input is for python3 and raw_input is for python2) in install.py && xerosploit.py and edited run.sh to sudo python3 (everything else is default)
