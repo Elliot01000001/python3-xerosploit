@@ -16,6 +16,7 @@ terminaltables
 sudo apt install nmap hping3 build-essential libpcap-dev libgmp3-dev
 
 pip3 install tabulate
+
 pip3 install terminaltables
 
 
