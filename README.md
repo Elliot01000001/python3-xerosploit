@@ -1,6 +1,6 @@
 # python3-xeroxploit
 
-First thing's first please visit https://github.com/LionSec/xerosploit and download tools folder as I cannot upload it due to itthe number of files :( && I am not gonna update this repo from 8-09-2021 (I'm too lazy) so you have to install original stuffs form the original repo :P
+First thing's first please visit https://github.com/LionSec/xerosploit and download tools folder as I cannot upload it due to itthe number of files :(
 
 Install the following Dependencies -
 
@@ -12,6 +12,11 @@ libpcap-dev
 libgmp3-dev
 tabulate
 terminaltables
+
+sudo apt install nmap hping3 build-essential libpcap-dev libgmp3-dev
+
+pip3 install tabulate
+pip3 install terminaltables
 
 
 To install xerosploit, simply type --> sudo python3 install.py
@@ -28,6 +33,6 @@ After the installation, type xerosploit in your terminal and everything will wor
 
 All the credits to LionSec and Me ofcourse :P
 
-Please do checkout https://github.com/LionSec/xerosploit/tree/master/tools for more detailed description/updates
+Please do checkout https://github.com/LionSec/xerosploit/ for more detailed description/updates
 
 Thanks, best of luck for the MITM Attack and God Bless :)
